@@ -11,5 +11,5 @@ Numpy</br>
 mnist</br>
 CV2</br>
 
-##Usage
-To usge this code just run SIFT_SVM_Classifier.py
+## Usage
+To use this code just run SIFT_SVM_Classifier.py
